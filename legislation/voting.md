@@ -1,4 +1,4 @@
-Voting for Triscea-1:
+# Voting for Triscea-1:
 
 People can make changes to Triscea-1 by giving support for pull requests (for additional information on pull requests and how to submit changes to Triscea-1, see [add link to submit]). Although this may sound hard to measure and easy to fake, it is not. In order to both make it more fair, and to prevent interference in the vote, the value of support is related to the justification that is provided and/or the argument that is made.
 The people who determine if an idea has worthwhile support are the people who contribute to the Triscea project, and make unbiased decisions to preserve the integrity of the project. More information on how these people are chosen and what they can do for Triscea-1 is available at [add link to contributer info].
